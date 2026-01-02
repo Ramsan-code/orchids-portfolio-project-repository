@@ -134,3 +134,5 @@ export default function ErrorReporter({ error, reset }: ReporterProps) {
     </html>
   );
 }
+// initial full project commit
+

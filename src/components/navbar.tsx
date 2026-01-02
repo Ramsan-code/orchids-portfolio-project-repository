@@ -111,3 +111,4 @@ export function Navbar() {
     </header>
   );
 }
+// initial full project commit

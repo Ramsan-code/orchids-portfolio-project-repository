@@ -97,3 +97,4 @@ export function EducationSection() {
     </section>
   );
 }
+// initial full project commit
